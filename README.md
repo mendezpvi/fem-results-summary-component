@@ -40,7 +40,7 @@ Users should be able to:
 
 [Live Demo](https://mendezpvi.github.io/fem-results-summary-component/) 👈
 
-<!-- [Solution on Frontend Mentor]() 👈 -->
+[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-MuAbYHarLa) 👈
 
 [Frontend Mentor Project Showcase](https://github.com/mendezpvi/frontend-mentor-showcase) 👈
 
